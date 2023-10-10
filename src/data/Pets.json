@@ -1,0 +1,1390 @@
+{
+	"pets": [
+		{
+			"name": "Sparky",
+			"icon": "🐶",
+			"sprite": "<a:SparkyGIF:927190439235289088>",
+			"UID": 1,
+			"id": 1,
+			"species": "DOG",
+			"rarity": "COMMON",
+			"shadowSprite": "<a:SparkyGIFShadow:928016038262628362>",
+			"fours": [
+				"<a:Sparky_4:936226586586402856>",
+				"<a:Sparky_3:936226586187931658>",
+				"<a:Sparky_2:936226586250862633>",
+				"<a:Sparky_1:936226586250866768>"
+			],
+			"shadowFours": [
+				"<a:Sparky_s_4:936226586276020244>",
+				"<a:Sparky_s_3:936226586313777162>",
+				"<a:Sparky_s_2:936226586313773116>",
+				"<a:Sparky_s_1:936226586338938880>"
+			],
+			"reversedFours": [
+				"<a:Sparky_r_4:936226586309574666>",
+				"<a:Sparky_r_3:936226586259230741>",
+				"<a:Sparky_r_2:936226586355728414>",
+				"<a:Sparky_r_1:936226586255061002>"
+			],
+			"shadowReversedFours": [
+				"<a:Sparky_r_s_4:936226586372497408>",
+				"<a:Sparky_r_s_3:936226586284417064>",
+				"<a:Sparky_r_s_2:936226586271838208>",
+				"<a:Sparky_r_s_1:936226586578010122>"
+			]
+		},
+		{
+			"name": "Blazehound",
+			"icon": "🐶",
+			"sprite": "<a:BlazehoundGIF:927190439793143828>",
+			"UID": 2,
+			"id": 2,
+			"species": "DOG",
+			"rarity": "COMMON",
+			"shadowSprite": "<a:BlazehoundGIFShadow:928016038547845200>",
+			"fours": [
+				"<a:Blazehound_4:937169397343215616>",
+				"<a:Blazehound_3:937169397355798538>",
+				"<a:Blazehound_2:937169397712322612>",
+				"<a:Blazehound_1:937169397741662240>"
+			],
+			"shadowFours": [
+				"<a:Blazehound_s_4:936225526966779944>",
+				"<a:Blazehound_s_3:936225526916464683>",
+				"<a:Blazehound_s_2:936225527189078036>",
+				"<a:Blazehound_s_1:936225526778052620>"
+			],
+			"reversedFours": [
+				"<a:Blazehound_r_4:937170792574226462>",
+				"<a:Blazehound_r_3:937170792293212212>",
+				"<a:Blazehound_r_2:937170792800739348>",
+				"<a:Blazehound_r_1:937170792469368872>"
+			],
+			"shadowReversedFours": [
+				"<a:Blazehound_r_s_4:937171709071597568>",
+				"<a:Blazehound_r_s_3:937171709025452069>",
+				"<a:Blazehound_r_s_2:937171709038034964>",
+				"<a:Blazehound_r_s_1:937171708887052319>"
+			]
+		},
+		{
+			"name": "Firestorm",
+			"icon": "🐶",
+			"sprite": "<a:FirestormGIF:927190438757142609>",
+			"UID": 3,
+			"id": 3,
+			"species": "DOG",
+			"rarity": "COMMON",
+			"shadowSprite": "<a:FirestormGIFShadow:928016039076306965>",
+			"fours": [
+				"<a:Firestorm_4:936225527906336790>",
+				"<a:Firestorm_3:936225528367706132>",
+				"<a:Firestorm_2:936225528443199488>",
+				"<a:Firestorm_1:936225528086679592>"
+			],
+			"shadowFours": [
+				"<a:Firestorm_s_4:936226045282091079>",
+				"<a:Firestorm_s_3:936226045667971082>",
+				"<a:Firestorm_s_2:936226045705719818>",
+				"<a:Firestorm_s_1:936226045248557137>"
+			],
+			"reversedFours": [
+				"<a:Firestorm_r_4:936225528334151720>",
+				"<a:Firestorm_r_3:936225528137003048>",
+				"<a:Firestorm_r_2:936225528191516692>",
+				"<a:Firestorm_r_1:936225528401248276>"
+			],
+			"shadowReversedFours": [
+				"<a:Firestorm_r_s_4:936225526706733137>",
+				"<a:Firestorm_r_s_3:936225528321572964>",
+				"<a:Firestorm_r_s_2:936225528246075392>",
+				"<a:Firestorm_r_s_1:936225528283799572>"
+			]
+		},
+		{
+			"name": "Quaggi",
+			"icon": "🦆",
+			"sprite": "<a:QuaggiGIF:927190477118263296>",
+			"UID": 4,
+			"id": 1,
+			"species": "DUCK",
+			"rarity": "UNCOMMON",
+			"shadowSprite": "<a:QuaggiGIFShadow:928015856502439937>",
+			"fours": [
+				"<a:Quaggi_4:936226424879218688>",
+				"<a:Quaggi_3:936226424862421043>",
+				"<a:Quaggi_2:936226424518504490>",
+				"<a:Quaggi_1:936226424858222622>"
+			],
+			"shadowFours": [
+				"<a:Quaggi_s_4:936226586624151593>",
+				"<a:Quaggi_s_3:936226586506698762>",
+				"<a:Quaggi_s_2:936226586309591071>",
+				"<a:Quaggi_s_1:936226586401841182>"
+			],
+			"reversedFours": [
+				"<a:Quaggi_r_4:936226424031944724>",
+				"<a:Quaggi_r_3:936226423688028201>",
+				"<a:Quaggi_r_2:936226423893528607>",
+				"<a:Quaggi_r_1:936226424564633631>"
+			],
+			"shadowReversedFours": [
+				"<a:Quaggi_r_s_4:936226423969021982>",
+				"<a:Quaggi_r_s_3:936226423948050432>",
+				"<a:Quaggi_r_s_2:936226424010989639>",
+				"<a:Quaggi_r_s_1:936226423667064844>"
+			]
+		},
+		{
+			"name": "Billiance",
+			"icon": "🦆",
+			"sprite": "<a:BillanceGIF:927190477210529852>",
+			"UID": 5,
+			"id": 2,
+			"species": "DUCK",
+			"rarity": "UNCOMMON",
+			"shadowSprite": "<a:BillanceGIFShadow:928015857018347600>",
+			"fours": [
+				"<a:Billance_4:936225090327154738>",
+				"<a:Billance_3:936225090297810954>",
+				"<a:Billance_2:936225090427813888>",
+				"<a:Billance_1:936225090331349023>"
+			],
+			"shadowFours": [
+				"<a:Billance_s_4:936225089739960400>",
+				"<a:Billance_s_3:936225089517678622>",
+				"<a:Billance_s_2:936225089505083452>",
+				"<a:Billance_s_1:936225089505099807>"
+			],
+			"reversedFours": [
+				"<a:Billance_r_4:936225089526038528>",
+				"<a:Billance_r_3:936225089517658142>",
+				"<a:Billance_r_2:936225090352336986>",
+				"<a:Billance_r_1:936225090029379615>"
+			],
+			"shadowReversedFours": [
+				"<a:Billance_r_s_4:936225089563820052>",
+				"<a:Billance_r_s_3:936225089526059048>",
+				"<a:Billance_r_s_2:936225089463148544>",
+				"<a:Billance_r_s_1:936225089463128074>"
+			]
+		},
+		{
+			"name": "Alexanduck",
+			"icon": "🦆",
+			"sprite": "<a:AlexanduckGIF:927190477936160818>",
+			"UID": 6,
+			"id": 3,
+			"species": "DUCK",
+			"rarity": "UNCOMMON",
+			"shadowSprite": "<a:AlexanduckGIFShadow:928015857534238800>",
+			"fours": [
+				"<a:Alexanduck_4:936225089320517653>",
+				"<a:Alexanduck_3:936225089626701854>",
+				"<a:Alexanduck_2:936225089832243200>",
+				"<a:Alexanduck_1:936225089614135306>"
+			],
+			"shadowFours": [
+				"<a:Alexanduck_s_4:936225089597353995>",
+				"<a:Alexanduck_s_3:936225089916112916>",
+				"<a:Alexanduck_s_2:936225089807056957>",
+				"<a:Alexanduck_s_1:936225089865805845>"
+			],
+			"reversedFours": [
+				"<a:Alexanduck_r_4:936225089953857566>",
+				"<a:Alexanduck_r_3:936225089991610398>",
+				"<a:Alexanduck_r_2:936225089735786547>",
+				"<a:Alexanduck_r_1:936225089324736594>"
+			],
+			"shadowReversedFours": [
+				"<a:Alexanduck_r_s_4:936225090092269578>",
+				"<a:Alexanduck_r_s_3:936225089886781441>",
+				"<a:Alexanduck_r_s_2:936225089534431263>",
+				"<a:Alexanduck_r_s_1:936225089446363157>"
+			]
+		},
+		{
+			"name": "Chimpmunk",
+			"icon": "🐵",
+			"sprite": "<a:ChimpmunkGIF:927190571859206195>",
+			"UID": 7,
+			"id": 1,
+			"species": "MONKEY",
+			"rarity": "RARE",
+			"shadowSprite": "<a:ChimpmunkGIFShadow:928015936726904842>",
+			"fours": [
+				"<a:Chimpmunk_4:936225527222640690>",
+				"<a:Chimpmunk_3:936225527335907339>",
+				"<a:Chimpmunk_2:936225526719332363>",
+				"<a:Chimpmunk_1:936225527155552298>"
+			],
+			"shadowFours": [
+				"<a:Chimpmunk_s_4:936225527704993792>",
+				"<a:Chimpmunk_s_3:936225527696588850>",
+				"<a:Chimpmunk_s_2:936225527587561512>",
+				"<a:Chimpmunk_s_1:936225527348486175>"
+			],
+			"reversedFours": [
+				"<a:Chimpmunk_r_4:936225527436562452>",
+				"<a:Chimpmunk_r_3:936225527474307172>",
+				"<a:Chimpmunk_r_2:936225527126163558>",
+				"<a:Chimpmunk_r_1:936225527382016040>"
+			],
+			"shadowReversedFours": [
+				"<a:Chimpmunk_r_s_4:936225527503667260>",
+				"<a:Chimpmunk_r_s_3:936225527579152384>",
+				"<a:Chimpmunk_r_s_2:936225527646281778>",
+				"<a:Chimpmunk_r_s_1:936225527533011005>"
+			]
+		},
+		{
+			"name": "Moncquiao",
+			"icon": "🐵",
+			"sprite": "<a:MoncquiaoGIF:927190571930513451>",
+			"UID": 8,
+			"id": 2,
+			"species": "MONKEY",
+			"rarity": "RARE",
+			"shadowSprite": "<a:MoncquiaoGIFShadow:928015937175715841>",
+			"fours": [
+				"<a:Moncquiao_4:936226424547860541>",
+				"<a:Moncquiao_3:936226424417812480>",
+				"<a:Moncquiao_2:936226424245866526>",
+				"<a:Moncquiao_1:936226424426229760>"
+			],
+			"shadowFours": [
+				"<a:Moncquiao_s_4:936226424568815646>",
+				"<a:Moncquiao_s_3:936226424631734292>",
+				"<a:Moncquiao_s_2:936226424577228841>",
+				"<a:Moncquiao_s_1:936226424522694696>"
+			],
+			"reversedFours": [
+				"<a:Moncquiao_r_4:936226424824688640>",
+				"<a:Moncquiao_r_3:936226424757579868>",
+				"<a:Moncquiao_r_2:936226424560427048>",
+				"<a:Moncquiao_r_1:936226424484945940>"
+			],
+			"shadowReversedFours": [
+				"<a:Moncquiao_r_s_4:936226424656896090>",
+				"<a:Moncquiao_r_s_3:936226424602382376>",
+				"<a:Moncquiao_r_s_2:936226424522678293>",
+				"<a:Moncquiao_r_s_1:936226424522694666>"
+			]
+		},
+		{
+			"name": "Gorryson",
+			"icon": "🐵",
+			"sprite": "<a:GorrysonGIF:927190572274446346>",
+			"UID": 9,
+			"id": 3,
+			"species": "MONKEY",
+			"rarity": "RARE",
+			"shadowSprite": "<a:GorrysonGIFShadow:928015937079230495>",
+			"fours": [
+				"<a:Gorryson_4:936226047475732531>",
+				"<a:Gorryson_3:936226047278579733>",
+				"<a:Gorryson_2:936226047270223945>",
+				"<a:Gorryson_1:936226047895142420>"
+			],
+			"shadowFours": [
+				"<a:Gorryson_s_4:936226424073879552>",
+				"<a:Gorryson_s_3:936226423994220624>",
+				"<a:Gorryson_s_2:936226423658676256>",
+				"<a:Gorryson_s_1:936226423931293708>"
+			],
+			"reversedFours": [
+				"<a:Gorryson_r_4:936226047752540190>",
+				"<a:Gorryson_r_3:936226047458963567>",
+				"<a:Gorryson_r_2:936226047718985738>",
+				"<a:Gorryson_r_1:936226047706427442>"
+			],
+			"shadowReversedFours": [
+				"<a:Gorryson_r_s_4:936226045353414676>",
+				"<a:Gorryson_r_s_3:936226047001759764>",
+				"<a:Gorryson_r_s_2:936226047651901441>",
+				"<a:Gorryson_r_s_1:936226047823847474>"
+			]
+		},
+		{
+			"name": "Furrloin",
+			"icon": "🦁",
+			"sprite": "<a:FurrloinGIF:927190546211020810>",
+			"UID": 10,
+			"id": 1,
+			"species": "LION",
+			"rarity": "EPIC",
+			"shadowSprite": "<a:FurrloinGIFShadow:928015911162621962>",
+			"fours": [
+				"<a:Furrloin_4:936226045705744434>",
+				"<a:Furrloin_3:936226045827375104>",
+				"<a:Furrloin_2:936226045756076052>",
+				"<a:Furrloin_1:936226045793808435>"
+			],
+			"shadowFours": [
+				"<a:Furrloin_s_4:936226045974155285>",
+				"<a:Furrloin_s_3:936226045886095380>",
+				"<a:Furrloin_s_2:936226045592489985>",
+				"<a:Furrloin_s_1:936226045751857153>"
+			],
+			"reversedFours": [
+				"<a:Furrloin_r_4:936226045877690378>",
+				"<a:Furrloin_r_3:936226045739282442>",
+				"<a:Furrloin_r_2:936226045756059648>",
+				"<a:Furrloin_r_1:936226045647028224>"
+			],
+			"shadowReversedFours": [
+				"<a:Furrloin_r_s_4:936226045978361906>",
+				"<a:Furrloin_r_s_3:936226046095790111>",
+				"<a:Furrloin_r_s_2:936226045831557150>",
+				"<a:Furrloin_r_s_1:936226045974183966>"
+			]
+		},
+		{
+			"name": "Pawloth",
+			"icon": "🦁",
+			"sprite": "<a:PawlothGIF:927190546097795132>",
+			"UID": 11,
+			"id": 2,
+			"species": "LION",
+			"rarity": "EPIC",
+			"shadowSprite": "<a:PawlothGIFShadow:928015911632384050>",
+			"fours": [
+				"<a:Pawloth_4:936226424589799435>",
+				"<a:Pawloth_3:936226424686264371>",
+				"<a:Pawloth_2:936226424338124811>",
+				"<a:Pawloth_1:936226424761778206>"
+			],
+			"shadowFours": [
+				"<a:Pawloth_s_4:936226424870805585>",
+				"<a:Pawloth_s_3:936226424946319370>",
+				"<a:Pawloth_s_2:936226424426225715>",
+				"<a:Pawloth_s_1:936226424774352926>"
+			],
+			"reversedFours": [
+				"<a:Pawloth_r_4:936226424803688508>",
+				"<a:Pawloth_r_3:936226424744968232>",
+				"<a:Pawloth_r_2:936226424493318195>",
+				"<a:Pawloth_r_1:936226424761774131>"
+			],
+			"shadowReversedFours": [
+				"<a:Pawloth_r_s_4:936226424749174875>",
+				"<a:Pawloth_r_s_3:936226424753356810>",
+				"<a:Pawloth_r_s_2:936226424354926664>",
+				"<a:Pawloth_r_s_1:936226424820473886>"
+			]
+		},
+		{
+			"name": "Roawrath",
+			"icon": "🦁",
+			"sprite": "<a:RoawrathGIF:927190546391392266>",
+			"UID": 12,
+			"id": 3,
+			"species": "LION",
+			"rarity": "EPIC",
+			"shadowSprite": "<a:RoawrathGIFShadow:928015911393316894>",
+			"fours": [
+				"<a:Roawrath_4:936226585844023327>",
+				"<a:Roawrath_3:936226586041139211>",
+				"<a:Roawrath_2:936226585722376264>",
+				"<a:Roawrath_1:936226586380881980>"
+			],
+			"shadowFours": [
+				"<a:Roawrath_s_4:936226586011770881>",
+				"<a:Roawrath_s_3:936226586401853490>",
+				"<a:Roawrath_s_2:936226586129231872>",
+				"<a:Roawrath_s_1:936226585734938665>"
+			],
+			"reversedFours": [
+				"<a:Roawrath_r_4:936226585651060767>",
+				"<a:Roawrath_r_3:936226586049536020>",
+				"<a:Roawrath_r_2:936226586187948062>",
+				"<a:Roawrath_r_1:936226586045333504>"
+			],
+			"shadowReversedFours": [
+				"<a:Roawrath_r_s_4:936226585747542027>",
+				"<a:Roawrath_r_s_3:936226586074705920>",
+				"<a:Roawrath_r_s_2:936226586125029446>",
+				"<a:Roawrath_r_s_1:936226586036936714>"
+			]
+		},
+		{
+			"name": "Doyle",
+			"icon": "👹",
+			"sprite": "<a:DoyleGIF:927190517043855451>",
+			"UID": 13,
+			"id": 1,
+			"species": "GARGOYLE",
+			"rarity": "LEGENDARY",
+			"shadowSprite": "<a:DoyleGIFShadow:928015887871655936>",
+			"fours": [
+				"<a:Doyle_4:936225527734358016>",
+				"<a:Doyle_3:936225528380264458>",
+				"<a:Doyle_2:936225527843409991>",
+				"<a:Doyle_1:936225527637889064>"
+			],
+			"shadowFours": [
+				"<a:Doyle_s_4:936225527856001036>",
+				"<a:Doyle_s_3:936225527675617312>",
+				"<a:Doyle_s_2:936225528191524864>",
+				"<a:Doyle_s_1:936225527948279828>"
+			],
+			"reversedFours": [
+				"<a:Doyle_r_4:936225527801458698>",
+				"<a:Doyle_r_3:936225528325750815>",
+				"<a:Doyle_r_2:936225527914708992>",
+				"<a:Doyle_r_1:936225527742738482>"
+			],
+			"shadowReversedFours": [
+				"<a:Doyle_r_s_4:936225527998591026>",
+				"<a:Doyle_r_s_3:936225528078303312>",
+				"<a:Doyle_r_s_2:936225527872774164>",
+				"<a:Doyle_r_s_1:936225527893729330>"
+			]
+		},
+		{
+			"name": "Axeon",
+			"icon": "👹",
+			"sprite": "<a:AxeonGIF:927190517010300958>",
+			"UID": 14,
+			"id": 2,
+			"species": "GARGOYLE",
+			"rarity": "LEGENDARY",
+			"fours": [
+				"<a:Axeon_4:936225090058715186>",
+				"<a:Axeon_3:936225090016796683>",
+				"<a:Axeon_2:936225089970667562>",
+				"<a:Axeon_1:936225089878392882>"
+			],
+			"shadowFours": [
+				"<a:Axeon_s_4:936225090134229003>",
+				"<a:Axeon_s_3:936225090411036732>",
+				"<a:Axeon_s_2:936225090176184330>",
+				"<a:Axeon_s_1:936225090645950554>"
+			],
+			"reversedFours": [
+				"<a:Axeon_r_4:936225091388334110>",
+				"<a:Axeon_r_3:936225089538650113>",
+				"<a:Axeon_r_2:936225090373292052>",
+				"<a:Axeon_r_1:936225089953861662>"
+			],
+			"shadowReversedFours": [
+				"<a:Axeon_r_s_4:936225090872434708>",
+				"<a:Axeon_r_s_3:936225090092290118>",
+				"<a:Axeon_r_s_2:936225090096476250>",
+				"<a:Axeon_r_s_1:936225090306203688>"
+			]
+		},
+		{
+			"name": "Gartesque",
+			"icon": "👹",
+			"sprite": "<a:GartesqueGIF:927191694988935218>",
+			"UID": 15,
+			"id": 3,
+			"species": "GARGOYLE",
+			"rarity": "LEGENDARY",
+			"shadowSprite": "<a:GartesqueGIFShadow:928015887443820604>",
+			"fours": [
+				"<a:Gartesque_4:936226047916146718>",
+				"<a:Gartesque_3:936226047865782302>",
+				"<a:Gartesque_2:936226046800441345>",
+				"<a:Gartesque_1:936226048083906580>"
+			],
+			"shadowFours": [
+				"<a:Gartesque_s_4:936226047450546177>",
+				"<a:Gartesque_s_3:936226047727394827>",
+				"<a:Gartesque_s_2:936226047286988821>",
+				"<a:Gartesque_s_1:936226046443946024>"
+			],
+			"reversedFours": [
+				"<a:Gartesque_r_4:936226048020983818>",
+				"<a:Gartesque_r_3:936226047832240138>",
+				"<a:Gartesque_r_2:936226046385217586>",
+				"<a:Gartesque_r_1:936226047140180040>"
+			],
+			"shadowReversedFours": [
+				"<a:Gartesque_r_s_4:936226047630905345>",
+				"<a:Gartesque_r_s_3:936226046422945822>",
+				"<a:Gartesque_r_s_2:936226045923819521>",
+				"<a:Gartesque_r_s_1:936226046347456542>"
+			]
+		},
+		{
+			"name": "Snowbane",
+			"icon": "⛄",
+			"sprite": "<a:Snowbane:1057612011221037158>",
+			"UID": 16,
+			"id": 1,
+			"species": "SNOWMAN",
+			"rarity": "MYSTICAL",
+			"shadowSprite": "<a:SnowbaneShadow:1057612537006403634>",
+			"fours": [
+				"<a:snowbane_4:1057612022990245938>",
+				"<a:snowbane_3:1057612020175872040>",
+				"<a:snowbane_2:1057612017885778001>",
+				"<a:snowbane_1:1057612014198997013>"
+			],
+			"shadowFours": [
+				"<a:snowbane_s_4:1057612055097655387>",
+				"<a:snowbane_s_3:1057612053021462568>",
+				"<a:snowbane_s_2:1057612049758310480>",
+				"<a:snowbane_s_1:1057612047132663828>"
+			],
+			"reversedFours": [
+				"<a:snowbane_r_4:1057612033803161610>",
+				"<a:snowbane_r_3:1057612030724546582>",
+				"<a:snowbane_r_2:1057612028199579658>",
+				"<a:snowbane_r_1:1057612025926271036>"
+			],
+			"shadowReversedFours": [
+				"<a:snowbane_r_s_4:1057612044842565672>",
+				"<a:snowbane_r_s_3:1057612041839460445>",
+				"<a:snowbane_r_s_2:1057612038999916594>",
+				"<a:snowbane_r_s_1:1057612036286193764>"
+			],
+			"special": {
+				"patchedEvoString": "❄️",
+				"patchedEmbedColor": "#00FFFF",
+				"patchedAuthorName": "Snowbane",
+				"patchedEmbedDescription": "*From the deepest Ice caves, this isn't a regular snowman..*"
+			}
+		},
+		{
+			"name": "Murko",
+			"icon": "🦉",
+			"sprite": "<a:Murko:1080468142981120001>",
+			"UID": 17,
+			"id": 1,
+			"species": "OWL",
+			"rarity": "COMMON",
+			"shadowSprite": "<a:MurkoShadow:1084203564576030750>",
+			"fours": [
+				"<a:Murko_4:1077293159639416942>",
+				"<a:Murko_3:1077293553228726333>",
+				"<a:Murko_2:1077293667724836955>",
+				"<a:Murko_1:1077293625731465326>"
+			],
+			"shadowFours": [
+				"<a:Murko_s_4:1077303267744297042>",
+				"<a:Murko_s_3:1077303203206541372>",
+				"<a:Murko_s_2:1077303167391379498>",
+				"<a:Murko_s_1:1077303128183017493>"
+			],
+			"reversedFours": [
+				"<a:Murko_r_4:1077300478477606992>",
+				"<a:Murko_r_3:1077300507854503936>",
+				"<a:Murko_r_2:1077300428397613066>",
+				"<a:Murko_r_1:1077300385607319572>"
+			],
+			"shadowReversedFours": [
+				"<a:Murko_r_s_4:1077304266420654110>",
+				"<a:Murko_r_s_3:1077304298528051411>",
+				"<a:Murko_r_s_2:1077304164067049492>",
+				"<a:Murko_r_s_1:1077304226163720215>"
+			],
+			"special": {
+				"patchedEvoString": "",
+				"patchedEmbedColor": "",
+				"patchedAuthorName": "",
+				"patchedEmbedDescription": ""
+			}
+		},
+		{
+			"name": "Reaper",
+			"icon": "🦉",
+			"sprite": "<a:Reaper:1084198841462571038>",
+			"UID": 18,
+			"id": 2,
+			"species": "OWL",
+			"rarity": "COMMON",
+			"shadowSprite": "<a:ReaperShadow:1084200519242883204>",
+			"fours": [
+				"<a:Reaper_4:1083179948568739942>",
+				"<a:Reaper_3:1083179956881862807>",
+				"<a:Reaper_2:1083179963248807997>",
+				"<a:Reaper_1:1083179970865676378>"
+			],
+			"shadowFours": [
+				"<a:Reaper_s_4:1083180727383900220>",
+				"<a:Reaper_s_3:1083180737475395685>",
+				"<a:Reaper_s_2:1083180745260023858>",
+				"<a:Reaper_s_1:1083180751475982356>"
+			],
+			"reversedFours": [
+				"<a:Reaper_r_4:1083180020316520533>",
+				"<a:Reaper_r_3:1083180028939993179>",
+				"<a:Reaper_r_2:1083180035822858260>",
+				"<a:Reaper_r_1:1083180042311450666>"
+			],
+			"shadowReversedFours": [
+				"<a:Reaper_r_s_4:1083180794224328744>",
+				"<a:Reaper_r_s_3:1083180832191164446>",
+				"<a:Reaper_r_s_2:1083180847047381082>",
+				"<a:Reaper_r_s_1:1083180857155657789>"
+			],
+			"special": {
+				"patchedEvoString": "",
+				"patchedEmbedColor": "",
+				"patchedAuthorName": "",
+				"patchedEmbedDescription": ""
+			}
+		},
+		{
+			"name": "Angelgust",
+			"icon": "🦉",
+			"sprite": "<a:Angelgust:1084204049122992138>",
+			"UID": 19,
+			"id": 3,
+			"species": "OWL",
+			"rarity": "COMMON",
+			"shadowSprite": "<a:AngelgustShadow:1084200486544089180>",
+			"fours": [
+				"<a:Angelgust_4:1082519001583845506>",
+				"<a:Angelgust_3:1082518500037378130>",
+				"<a:Angelgust_2:1082518510690898021>",
+				"<a:AngelGust_1:1082518519297626202>"
+			],
+			"shadowFours": [
+				"<a:Angelgust_s_4:1082519711453020187>",
+				"<a:Angelgust_s_3:1082519717392162866>",
+				"<a:Angelgust_s_2:1082519726573494312>",
+				"<a:Angelgust_s_1:1082519734911770664>"
+			],
+			"reversedFours": [
+				"<a:Angelgust_r_4:1082519157435805717>",
+				"<a:Angelgust_r_3:1082519164515786793>",
+				"<a:Angelgust_r_2:1082519173856493689>",
+				"<a:Angelgust_r_1:1082519182786175007>"
+			],
+			"shadowReversedFours": [
+				"<a:Angelgust_r_s_4:1082519804663038052>",
+				"<a:Angelgust_r_s_3:1082519811352973363>",
+				"<a:Angelgust_r_s_2:1082519820412661830>",
+				"<a:Angelgust_r_s_1:1082519829715632228>"
+			],
+			"special": {
+				"patchedEvoString": "",
+				"patchedEmbedColor": "",
+				"patchedAuthorName": "",
+				"patchedEmbedDescription": ""
+			}
+		},
+
+		{
+			"name": "Bulla",
+			"icon": "🐂",
+			"sprite": "<a:Bulla:1080468169493323826>",
+			"UID": 20,
+			"id": 1,
+			"species": "BULL",
+			"rarity": "UNCOMMON",
+			"shadowSprite": "<a:BullaShadow:1084203462625071104>",
+			"fours": [
+				"<a:Bulla_4:1077410448191787058>",
+				"<a:Bulla_3:1077410422380056678>",
+				"<a:Bulla_2:1077410394584399892>",
+				"<a:Bulla_1:1077410358794403890>"
+			],
+			"shadowFours": [
+				"<a:Bulla_s_4:1077411779707154564>",
+				"<a:Bulla_s_3:1077411757892587540>",
+				"<a:Bulla_s_2:1077411720470999040>",
+				"<a:Bulla_s_1:1077411607795224616>"
+			],
+			"reversedFours": [
+				"<a:Bulla_r_4:1077410634985123860>",
+				"<a:Bulla_r_3:1077410611874508871>",
+				"<a:Bulla_r_2:1077410550746710118>",
+				"<a:Bulla_r_1:1077410519453028396>"
+			],
+			"shadowReversedFours": [
+				"<a:Bulla_r_s_4:1077411967721021440>",
+				"<a:Bulla_r_s_3:1077411933768130600>",
+				"<a:Bulla_r_s_2:1077411903296507935>",
+				"<a:Bulla_r_s_1:1077411868949364797>"
+			],
+			"special": {
+				"patchedEvoString": "",
+				"patchedEmbedColor": "",
+				"patchedAuthorName": "",
+				"patchedEmbedDescription": ""
+			}
+		},
+		{
+			"name": "Suntuar",
+			"icon": "🐂",
+			"sprite": "<a:Suntaur:1084198768259383446>",
+			"UID": 21,
+			"id": 2,
+			"species": "BULL",
+			"rarity": "UNCOMMON",
+			"shadowSprite": "<a:SuntaurShadow:1084200527342084116>",
+			"fours": [
+				"<a:Suntuar_4:1082311624112738377>",
+				"<a:Suntuar_3:1082311601832599613>",
+				"<a:Suntuar_2:1082311575374934036>",
+				"<a:Suntuar_1:1082311548158099456>"
+			],
+			"shadowFours": [
+				"<a:Suntuar_s_4:1082313572996092006>",
+				"<a:Suntuar_s_3:1082313546144157696>",
+				"<a:Suntuar_s_2:1082313520542142515>",
+				"<a:Suntuar_s_1:1082313480092254218>"
+			],
+			"reversedFours": [
+				"<a:Suntuar_r_4:1082312474889572423>",
+				"<a:Suntuar_r_3:1082312452072542329>",
+				"<a:Suntuar_r_2:1082312427175153705>",
+				"<a:Suntuar_r_1:1082312406115553410>"
+			],
+			"shadowReversedFours": [
+				"<a:Suntuar_r_s_4:1082314486750388354>",
+				"<a:Suntuar_r_s_3:1082314453468577792>",
+				"<a:Suntuar_r_s_2:1082314424632737892>",
+				"<a:Suntuar_r_s_4:1082314486750388354>"
+			],
+			"special": {
+				"patchedEvoString": "",
+				"patchedEmbedColor": "",
+				"patchedAuthorName": "",
+				"patchedEmbedDescription": ""
+			}
+		},
+		{
+			"name": "Wildebeast",
+			"icon": "🐂",
+			"sprite": "<a:Wildebeast:1084204138818179112>",
+			"UID": 22,
+			"id": 3,
+			"species": "BULL",
+			"rarity": "UNCOMMON",
+			"shadowSprite": "<a:WildebeastShadow:1084200542114422874>",
+			"fours": [
+				"<a:Wildebeast_4:1082320344947380306>",
+				"<a:Wildebeast_3:1082320322801438760>",
+				"<a:Wildebeast_2:1082320296511537213>",
+				"<a:Wildebeast_1:1082320272239099944>"
+			],
+			"shadowFours": [
+				"<a:Wildebeast_s_4:1082324028733272074>",
+				"<a:Wildebeast_s_3:1082323992658055220>",
+				"<a:Wildebeast_s_2:1082323973179723796>",
+				"<a:Wildebeast_s_1:1082323952497594378>"
+			],
+			"reversedFours": [
+				"<a:Wildebeast_r_4:1082321982353330297>",
+				"<a:Wildebeast_r_3:1082321962774310974>",
+				"<a:Wildebeast_r_2:1082321941836333188>",
+				"<a:Wildebeast_r_1:1082321916607598666>"
+			],
+			"shadowReversedFours": [
+				"<a:Wildebeast_r_s_4:1082324127412654100>",
+				"<a:Wildebeast_r_s_3:1082324105409331230>",
+				"<a:Wildebeast_r_s_2:1082324075181002872>",
+				"<a:Wildebeast_r_s_1:1082324052309450843>"
+			],
+			"special": {
+				"patchedEvoString": "",
+				"patchedEmbedColor": "",
+				"patchedAuthorName": "",
+				"patchedEmbedDescription": ""
+			}
+		},
+
+		{
+			"name": "Ozy",
+			"icon": "🐻",
+			"sprite": "<a:Ozy:1084198456190566553>",
+			"UID": 23,
+			"id": 1,
+			"species": "BEAR",
+			"rarity": "RARE",
+			"shadowSprite": "<a:OzyShadow:1084203355217338419>",
+			"fours": [
+				"<a:Ozy_4:1077443926186799134>",
+				"<a:Ozy_3:1077443904267354152>",
+				"<a:Ozy_2:1077443877042143343>",
+				"<a:Ozy_1:1077443768757784636>"
+			],
+			"shadowFours": [
+				"<a:Ozy_s_4:1077445751287857232>",
+				"<a:Ozy_s_3:1077445726231068692>",
+				"<a:Ozy_s_2:1077445699295264819>",
+				"<a:Ozy_s_1:1077445669238878269>"
+			],
+			"reversedFours": [
+				"<a:Ozy_r_4:1077444241984331847>",
+				"<a:Ozy_r_3:1077444220895363183>",
+				"<a:Ozy_r_2:1077444193229754399>",
+				"<a:Ozy_r_1:1077444162296741924>"
+			],
+			"shadowReversedFours": [
+				"<a:Ozy_r_s_4:1077445911443165255>",
+				"<a:Ozy_r_s_3:1077445888693252146>",
+				"<a:Ozy_r_s_2:1077445855998656532>",
+				"<a:Ozy_r_s_1:1077445813346766968>"
+			],
+			"special": {
+				"patchedEvoString": "",
+				"patchedEmbedColor": "",
+				"patchedAuthorName": "",
+				"patchedEmbedDescription": ""
+			}
+		},
+		{
+			"name": "Grizzitch",
+			"icon": "🐻",
+			"sprite": "<a:Grizzitch:1084198449865556068>",
+			"UID": 24,
+			"id": 2,
+			"species": "BEAR",
+			"rarity": "RARE",
+			"shadowSprite": "<a:GrizzitchShadow:1084200505603010732>",
+			"fours": [
+				"<a:Grizzitch_4:1083766125583663258>",
+				"<a:Grizzitch_3:1083766132554612769>",
+				"<a:Grizzitch_2:1083766135700340758>",
+				"<a:Grizzitch_1:1083766138615377951>"
+			],
+			"shadowFours": [
+				"<a:Grizzitch_s_4:1083767699282346096>",
+				"<a:Grizzitch_s_3:1083767702637793450>",
+				"<a:Grizzitch_s_2:1083767704546189372>",
+				"<a:Grizzitch_s_1:1083767707335397396>"
+			],
+			"reversedFours": [
+				"<a:Grizzitch_r_4:1083766796143841350>",
+				"<a:Grizzitch_r_3:1083766798874333215>",
+				"<a:Grizzitch_r_2:1083766800883384392>",
+				"<a:Grizzitch_r_1:1083766803701964801>"
+			],
+			"shadowReversedFours": [
+				"<a:Grizzitch_r_s_4:1083767734803890186>:",
+				"<a:Grizzitch_r_s_3:1083767736569704489>",
+				"<a:Grizzitch_r_s_2:1083767738943672412>",
+				"<a:Grizzitch_r_s_1:1083767741745483786>"
+			],
+			"special": {
+				"patchedEvoString": "",
+				"patchedEmbedColor": "",
+				"patchedAuthorName": "",
+				"patchedEmbedDescription": ""
+			}
+		},
+		{
+			"name": "Dumbeardore",
+			"icon": "🐻",
+			"sprite": "<a:Dumbeardore:1084204184540295230>",
+			"UID": 25,
+			"id": 3,
+			"species": "BEAR",
+			"rarity": "RARE",
+			"shadowSprite": "<a:DumbeardoreShadow:1084200501127684157>",
+			"fours": [
+				"<a:Dumbeardore_4:1082352799494438912>",
+				"<a:Dumbeardore_3:1082352779345010768>",
+				"<a:Dumbeardore_2:1082352757555597313>",
+				"<a:Dumbeardore_1:1082352736558927892>"
+			],
+			"shadowFours": [
+				"<a:Dumbeardore_s_4:1082353910364262441>",
+				"<a:Dumbeardore_s_3:1082353881855578245>",
+				"<a:Dumbeardore_s_2:1082353604935028776>",
+				"<a:Dumbeardore_s_1:1082353542368600204>"
+			],
+			"reversedFours": [
+				"<a:Dumbeardore_r_4:1082352890779275284>",
+				"<a:Dumbeardore_r_3:1082352868440412201>",
+				"<a:Dumbeardore_r_2:1082352842800640000>",
+				"<a:Dumbeardore_r_1:1082352820709228704>"
+			],
+			"shadowReversedFours": [
+				"<a:Dumbeardore_r_s_4:1082354412032360528>",
+				"<a:Dumbeardore_r_s_3:1082354391190876313>",
+				"<a:Dumbeardore_r_s_2:1083579891305435156>",
+				"<a:Dumbeardore_r_s_1:1082354341022814288>"
+			],
+			"special": {
+				"patchedEvoString": "",
+				"patchedEmbedColor": "",
+				"patchedAuthorName": "",
+				"patchedEmbedDescription": ""
+			}
+		},
+		{
+			"name": "Frongue",
+			"icon": "🐸",
+			"sprite": "<a:Frongue:1084198505670783128>",
+			"UID": 26,
+			"id": 1,
+			"species": "FROG",
+			"rarity": "EPIC",
+			"shadowSprite": "<a:FrongueShadow:1084203532040818819>",
+			"fours": [
+				"<a:Frongue_4:1077311607392186550>",
+				"<a:Frongue_3:1077311560822829086>",
+				"<a:Frongue_2:1077311505458012160>",
+				"<a:Frongue_1:1077311486776594432>"
+			],
+			"shadowFours": [
+				"<a:Frongue_s_4:1077315573534445585>",
+				"<a:Frongue_s_3:1077315541305393152>",
+				"<a:Frongue_s_2:1077315492957655151>",
+				"<a:Frongue_s_1:1077315465426260122>"
+			],
+			"reversedFours": [
+				"<a:Frongue_r_4:1077313428793872524>",
+				"<a:Frongue_r_3:1077313296413245452>",
+				"<a:Frongue_r_2:1077311835256148098>",
+				"<a:Frongue_r_1:1077311892592275496>"
+			],
+			"shadowReversedFours": [
+				"<a:Frongue_r_s_4:1077315915189866608>",
+				"<a:Frongue_r_s_3:1077315879005597828>",
+				"<a:Frongue_r_s_2:1077315684347953274>",
+				"<a:Frongue_r_s_1:1077315843018457098>"
+			],
+			"special": {
+				"patchedEvoString": "",
+				"patchedEmbedColor": "",
+				"patchedAuthorName": "",
+				"patchedEmbedDescription": ""
+			}
+		},
+		{
+			"name": "Croakurr",
+			"icon": "🐸",
+			"sprite": "<a:Croakurr:1084198694418665502>",
+			"UID": 27,
+			"id": 2,
+			"species": "FROG",
+			"rarity": "EPIC",
+			"shadowSprite": "<a:CroackurrShadow:1084200495645737133>",
+			"fours": [
+				"<a:Croakurr_4:1082348649373249556>",
+				"<a:Croakurr_3:1082348626522689568>",
+				"<a:Croakurr_2:1082348600111149097>",
+				"<a:Croakurr_1:1082347512788177016>"
+			],
+			"shadowFours": [
+				"<a:Croakurr_s_4:1083199226328141925>",
+				"<a:Croakurr_s_3:1083199229025075260>",
+				"<a:Croakurr_s_2:1083199232388911124>",
+				"<a:Croakurr_s_1:1083199235295551538>"
+			],
+			"reversedFours": [
+				"<a:Croakurr_r_4:1082350689948274739>",
+				"<a:Croakurr_r_3:1082350674727161876>",
+				"<a:Croakurr_r_2:1082350660403601418>",
+				"<a:Croakurr_r_1:1082350644767227914>"
+			],
+			"shadowReversedFours": [
+				"<a:Croakurr_r_s_4:1082351865544585257>",
+				"<a:Croakurr_r_s_3:1082351850193436763>",
+				"<a:Croakurr_r_s_2:1082351833772736623>",
+				"<a:Croakurr_r_s_1:1082351813577158756>"
+			],
+			"special": {
+				"patchedEvoString": "",
+				"patchedEmbedColor": "",
+				"patchedAuthorName": "",
+				"patchedEmbedDescription": ""
+			}
+		},
+		{
+			"name": "Swampz",
+			"icon": "🐸",
+			"sprite": "<a:Swampz:1084204082518044816>",
+			"UID": 28,
+			"id": 3,
+			"species": "FROG",
+			"rarity": "EPIC",
+			"shadowSprite": "<a:SwampzShadow:1084200533050544218>",
+			"fours": [
+				"<a:Swampz_4:1083571222123647026>",
+				"<a:Swampz_3:1083571225395216445>",
+				"<a:Swampz_2:1083571227865661480>",
+				"<a:Swampz_1:1083571231355306057>"
+			],
+			"shadowFours": [
+				"<a:Swampz_s_4:1083577492436177037>",
+				"<a:Swampz_s_3:1083577496559157350>",
+				"<a:Swampz_s_2:1083577499029610586>",
+				"<a:Swampz_s_1:1083577502812868618>"
+			],
+			"reversedFours": [
+				"<a:Swampz_r_4:1083572453969764363>",
+				"<a:Swampz_r_3:1083572459833409547>",
+				"<a:Swampz_r_2:1083572464094814279>",
+				"<a:Swampz_r_1:1083572466603016192>"
+			],
+			"shadowReversedFours": [
+				"<a:Swampz_r_s_4:1083578832096854036>",
+				"<a:Swampz_r_s_3:1083578835779452928>",
+				"<a:Swampz_r_s_2:1083578838929375252>",
+				"<a:Swampz_r_s_1:1083578842104471582>"
+			],
+			"special": {
+				"patchedEvoString": "",
+				"patchedEmbedColor": "",
+				"patchedAuthorName": "",
+				"patchedEmbedDescription": ""
+			}
+		},
+
+		{
+			"name": "Vampy",
+			"icon": "🦇",
+			"sprite": "<a:Vampy:1080468191244988556>",
+			"UID": 29,
+			"id": 1,
+			"species": "BAT",
+			"rarity": "LEGENDARY",
+			"shadowSprite": "<a:VampyShadow:1084203328726126683>",
+			"fours": [
+				"<a:Vampy_4:1077413900569546852>",
+				"<a:Vampy_3:1077413866264330240>",
+				"<a:Vampy_2:1077413257964429402>",
+				"<a:Vampy_1:1077413227148882031>"
+			],
+			"shadowFours": [
+				"<a:Vampy_s_4:1077415378935894086>",
+				"<a:Vampy_s_3:1077415796239782029>",
+				"<a:Vampy_s_2:1077415329061425272>",
+				"<a:Vampy_s_1:1077415299357360210>"
+			],
+			"reversedFours": [
+				"<a:Vampy_r_4:1077414221110845522>",
+				"<a:Vampy_r_3:1077414199636004865>",
+				"<a:Vampy_r_2:1077414156300468357>",
+				"<a:Vampy_r_1:1077414116341329950>"
+			],
+			"shadowReversedFours": [
+				"<a:Vampy_r_s_4:1077416068668199034>",
+				"<a:Vampy_r_s_3:1077415983632875590>",
+				"<a:Vampy_r_s_2:1077415925097173152>",
+				"<a:Vampy_r_s_1:1077415897116971029>"
+			],
+			"special": {
+				"patchedEvoString": "",
+				"patchedEmbedColor": "",
+				"patchedAuthorName": "",
+				"patchedEmbedDescription": ""
+			}
+		},
+		{
+			"name": "Batdze",
+			"icon": "🦇",
+			"sprite": "<a:Batdze:1084198733014646844>",
+			"UID": 30,
+			"id": 2,
+			"species": "BAT",
+			"rarity": "LEGENDARY",
+			"shadowSprite": "<a:BatdzeShadow:1084200490792927263>",
+			"fours": [
+				"<a:Batdze_4:1082305935235616809>",
+				"<a:Batdze_3:1082305920295510056>",
+				"<a:Batdze_2:1082305902260015225>",
+				"<a:Batdze_1:1082305880994877533>"
+			],
+			"shadowFours": [
+				"<a:Batdze_s_4:1082308227108196403>",
+				"<a:Batdze_s_3:1082308212189048862>",
+				"<a:Batdze_s_2:1082308197194407977>",
+				"<a:Batdze_s_1:1082308174645833759>"
+			],
+			"reversedFours": [
+				"<a:Batdze_r_4:1082307249336238110>",
+				"<a:Batdze_r_3:1082307233372717066>",
+				"<a:Batdze_r_2:1082307218180935690>",
+				"<a:Batdze_r_1:1082307192864116746>"
+			],
+			"shadowReversedFours": [
+				"<a:Batdze_r_s_4:1082309111032590356>",
+				"<a:Batdze_r_s_3:1082316048239427624>",
+				"<a:Batdze_r_s_2:1082309079034241155>",
+				"<a:Batdze_r_s_1:1082309062865190982>"
+			],
+			"special": {
+				"patchedEvoString": "",
+				"patchedEmbedColor": "",
+				"patchedAuthorName": "",
+				"patchedEmbedDescription": ""
+			}
+		},
+		{
+			"name": "Nosferatu",
+			"icon": "🦇",
+			"sprite": "<a:Nosferatu:1084204218371559494>",
+			"UID": 31,
+			"id": 3,
+			"species": "BAT",
+			"rarity": "LEGENDARY",
+			"shadowSprite": "<a:NosferatuShadow:1084200510728437841>",
+			"fours": [
+				"<a:Nosferatu_4:1082331395898232912>",
+				"<a:Nosferatu_3:1082331379133579294>",
+				"<a:Nosferatu_2:1082331363144912957>",
+				"<a:Nosferatu_1:1082331346178949200>"
+			],
+			"shadowFours": [
+				"<a:Nosferatu_s_4:1082334594101166182>",
+				"<a:Nosferatu_s_3:1082334578217324554>",
+				"<a:Nosferatu_s_2:1082334563780538519>",
+				"<a:Nosferatu_s_1:1082334546059595837>"
+			],
+			"reversedFours": [
+				"<a:Nosferatu_r_4:1082330040592773151>",
+				"<a:Nosferatu_r_3:1082330026038526102>",
+				"<a:Nosferatu_r_2:1082330008351146054>",
+				"<a:Nosferatu_r_1:1082329713751633971>"
+			],
+			"shadowReversedFours": [
+				"<a:Nosferatu_r_s_4:1082335481943035904>",
+				"<a:Nosferatu_r_s_3:1082335455980310658>",
+				"<a:Nosferatu_r_s_2:1082335442424320063>",
+				"<a:Nosferatu_r_s_1:1082335425244446762>"
+			],
+			"special": {
+				"patchedEvoString": "",
+				"patchedEmbedColor": "",
+				"patchedAuthorName": "",
+				"patchedEmbedDescription": ""
+			}
+		},
+		{
+			"name": "Sherrin",
+			"icon": "🐲",
+			"sprite": "<a:Sherrin:1056685757038862376>",
+			"UID": 33,
+			"id": 1,
+			"species": "DRAGON",
+			"rarity": "MYSTICAL",
+			"shadowSprite": "<a:Sherrin:1056685757038862376>",
+			"fours": [
+				"<a:Sherrin_4:1083767585457315880>",
+				"<a:Sherrin_3:1083767581753745531>",
+				"<a:Sherrin_2:1083767578893226125>",
+				"<a:sherrin_1:1083767576208875600>"
+			],
+			"shadowFours": [
+				"<a:Sherrin_4:1083767585457315880>",
+				"<a:Sherrin_3:1083767581753745531>",
+				"<a:Sherrin_2:1083767578893226125>",
+				"<a:sherrin_1:1083767576208875600>"
+			],
+			"reversedFours": [
+				"<a:Sherrin_r_4:1083767597054562314>",
+				"<a:Sherrin_r_3:1083767594156314685>",
+				"<a:Sherrin_r_2:1083767590826021014>",
+				"<a:Sherrin_r_1:1083767587994869800>"
+			],
+			"shadowReversedFours": [
+				"<a:Sherrin_r_4:1083767597054562314>",
+				"<a:Sherrin_r_3:1083767594156314685>",
+				"<a:Sherrin_r_2:1083767590826021014>",
+				"<a:Sherrin_r_1:1083767587994869800>"
+			],
+			"special": {
+				"patchedEvoString": "🔥",
+				"patchedEmbedColor": "#6AFB92",
+				"patchedAuthorName": "Sherrin",
+				"patchedEmbedDescription": "Cute but deadly dragon from a different world...."
+			}
+		},
+		{
+			"name": "Talos",
+			"icon": "🐲",
+			"sprite": "<a:Talos:1056685761958789181>",
+			"UID": 34,
+			"id": 2,
+			"species": "DRAGON",
+			"rarity": "MYSTICAL",
+			"shadowSprite": "<a:Talos:1056685761958789181>",
+			"fours": [
+				"<a:Talos_4:1083767609264177306>",
+				"<a:Talos_3:1083767606516928523>",
+				"<a:Talos_2:1083767603530567761>",
+				"<a:Talos_1:1083767599390797935>"
+			],
+			"shadowFours": [
+				"<a:Talos_4:1083767609264177306>",
+				"<a:Talos_3:1083767606516928523>",
+				"<a:Talos_2:1083767603530567761>",
+				"<a:Talos_1:1083767599390797935>"
+			],
+			"reversedFours": [
+				"<a:Talos_r_4:1083767621821935716>",
+				"<a:Talos_r_3:1083767618692984883>",
+				"<a:Talos_r_2:1083767616570667038>",
+				"<a:Talos_r_1:1083767613320077425>"
+			],
+			"shadowReversedFours": [
+				"<a:Talos_r_4:1083767621821935716>",
+				"<a:Talos_r_3:1083767618692984883>",
+				"<a:Talos_r_2:1083767616570667038>",
+				"<a:Talos_r_1:1083767613320077425>"
+			],
+			"special": {
+				"patchedEvoString": "🔥",
+				"patchedEmbedColor": "#6AFB92",
+				"patchedAuthorName": "Talos",
+				"patchedEmbedDescription": "Untameable beast which you do not want to anger..."
+			}
+		},
+		{
+			"name": "Drakhmin",
+			"icon": "🐲",
+			"sprite": "<a:Drakhmin:1056685753163317268>",
+			"UID": 35,
+			"id": 3,
+			"species": "DRAGON",
+			"rarity": "MYSTICAL",
+			"shadowSprite": "<a:Drakhmin:1056685753163317268>",
+			"fours": [
+				"<a:Drakhmin_4:1083767507711696906>",
+				"<a:Drakhmin_3:1083767503416733706>",
+				"<a:Drakhmin_2:1083767498207395931>",
+				"<a:Drakhmin_1:1083767492930981948>"
+			],
+			"shadowFours": [
+				"<a:Drakhmin_4:1083767507711696906>",
+				"<a:Drakhmin_3:1083767503416733706>",
+				"<a:Drakhmin_2:1083767498207395931>",
+				"<a:Drakhmin_1:1083767492930981948>"
+			],
+			"reversedFours": [
+				"<a:Drakhmin_r_4:1083767528494469161>",
+				"<a:Drakhmin_r_3:1083767523343876148>",
+				"<a:Drakhmin_r_2:1083767518948237383>",
+				"<a:Drakhmin_r_1:1083767513499836517>"
+			],
+			"shadowReversedFours": [
+				"<a:Drakhmin_r_4:1083767528494469161>",
+				"<a:Drakhmin_r_3:1083767523343876148>",
+				"<a:Drakhmin_r_2:1083767518948237383>",
+				"<a:Drakhmin_r_1:1083767513499836517>"
+			],
+			"special": {
+				"patchedEvoString": "🔥",
+				"patchedEmbedColor": "#6AFB92",
+				"patchedAuthorName": "Drakhmin",
+				"patchedEmbedDescription": "Mightiest, Destroyer of worlds, now under your command..."
+			}
+		},
+		{
+			"name": "XiFu",
+			"icon": "🐼",
+			"sprite": "<a:XiFu:1063581952344600626>",
+			"UID": 32,
+			"id": 3,
+			"species": "PANDA",
+			"rarity": "MYSTICAL",
+			"shadowSprite": "<a:XifuShadow:1084200548762394685>",
+			"fours": [
+				"<a:Xifu_4:1082523671731650651>",
+				"<a:Xifu_3:1082523676810940477>",
+				"<a:Xifu_2:1082523681412087878>",
+				"<a:Xifu_1:1082523685056950332>"
+			],
+			"shadowFours": [
+				"<a:Xifu_s_4:1082358335090737222>",
+				"<a:Xifu_s_3:1082358341545758720>",
+				"<a:Xifu_s_2:1082358347602337832>",
+				"<a:Xifu_s_1:1082358351897301012>"
+			],
+			"reversedFours": [
+				"<a:Xifu_r_4:1083583595475652648>",
+				"<a:Xifu_r_3:1083583599095332954>",
+				"<a:Xifu_r_2:1083583601523839067>",
+				"<a:Xifu_r_1:1083583605906874518>"
+			],
+			"shadowReversedFours": [
+				"<a:Xifu_r_s_4:1083583512591995020>",
+				"<a:Xifu_r_s_3:1082358278853496964>",
+				"<a:Xifu_r_s_2:1082358281722404864>",
+				"<a:Xifu_r_s_1:1082358287376326867>"
+			],
+			"special": {
+				"patchedEvoString": "🎍",
+				"patchedEmbedColor": "#000000",
+				"patchedAuthorName": "XiFu",
+				"patchedEmbedDescription": "He's Cuddly but ferocious when push comes shove..."
+			}
+		},
+		{
+			"name": "Minerva",
+			"icon": "🐿",
+			"sprite": "<a:MinervaGIF:1129476575180619827>",
+			"UID": 36,
+			"id": 1,
+			"species": "BEAVER",
+			"rarity": "MYSTICAL",
+			"shadowSprite": "<a:MinervaShadow:1129477561928384673>",
+			"fours": [
+				"<a:Minerva_4:1129476511263637544>",
+				"<a:Minerva_3:1129476506159169566>",
+				"<a:Minerva_2:1129476498882043904>",
+				"<a:Minerva_1:1129476493836300348>"
+			],
+			"shadowFours": [
+				"<a:Minerva_s_4:1129476545241681921>",
+				"<a:Minerva_s_3:1129476541030604830>",
+				"<a:Minerva_s_2:1129476538195255346>",
+				"<a:Minerva_s_1:1129476534038700032>"
+			],
+			"reversedFours": [
+				"<a:Minerva_r_4:1129476529873764454>",
+				"<a:Minerva_r_3:1129476527378137158>",
+				"<a:Minerva_r_2:1129476522160443542>",
+				"<a:Minerva_r_1:1129476517269884928>"
+			],
+			"shadowReversedFours": [
+				"<a:Minerva_r_s_4:1129476545241681921>",
+				"<a:Minerva_r_s_3:1129476541030604830>",
+				"<a:Minerva_r_s_2:1129476538195255346>",
+				"<a:Minerva_r_s_1:1129476534038700032>"
+			]
+		},
+		{
+			"name": "Jackoweb",
+			"icon": "🎃",
+			"sprite": "<a:JackowebGIF:1153277985655365653>",
+			"UID": 37,
+			"id": 1,
+			"species": "PUMPKIN",
+			"rarity": "MYSTICAL",
+			"shadowSprite": "<a:JackowebShadow:1153268453386489928>",
+			"fours": [
+				"<a:Jackoweb_4:1153268446956621914>",
+				"<a:Jackoweb_3:1153268442913329192>",
+				"<a:Jackoweb_2:1153268438391861249>",
+				"<a:Jackoweb_1:1153268434063339550>"
+			],
+			"shadowFours": [
+				"<a:Jackoweb_r_s_4:1153268788528173106>",
+				"<a:Jackoweb_r_s_3:1153268783880884255>",
+				"<a:Jackoweb_r_s_2:1153268779271340033>",
+				"<a:Jackoweb_r_s_1:1153268774145896481>"
+			],
+			"reversedFours": [
+				"<a:Jackoweb_r_4:1153268770186477708>",
+				"<a:Jackoweb_r_3:1153268764020834344>",
+				"<a:Jackoweb_r_2:1153268759583281266>",
+				"<a:Jackoweb_r_1:1153268757079261235>"
+			],
+			"shadowReversedFours": [
+				"<a:Jackoweb_r_s_4:1153268788528173106>",
+				"<a:Jackoweb_r_s_3:1153268783880884255>",
+				"<a:Jackoweb_r_s_2:1153268779271340033>",
+				"<a:Jackoweb_r_s_1:1153268774145896481>"
+			],
+			"special": {
+				"patchedEvoString": "🎃",
+				"patchedEmbedColor": "#F75F1C",
+				"patchedAuthorName": "Jackoweb",
+				"patchedEmbedDescription": "**EXCLUSIVE** __2023 Halloween Event Prize__"
+			}
+		}
+	]
+}

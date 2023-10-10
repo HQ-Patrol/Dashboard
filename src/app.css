@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500&family=Rubik:wght@500&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--accent: 136, 58, 234;
+	--accent-light: 224, 204, 250;
+	--accent-dark: 49, 10, 101;
+	--accent-gradient: linear-gradient(
+		45deg,
+		rgb(var(--accent)),
+		rgb(var(--accent-light)) 30%,
+		white 60%
+	);
+}
+
+html {
+	font-family: system-ui, sans-serif;
+	background: #13151a;
+	background-size: 224px;
+	margin: 0;
+	border: 0;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+}
+
+code {
+	font-family: Menlo, Monaco, Lucida Console, Liberation Mono,
+		DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+}
+
+.grad {
+	background: linear-gradient(
+		to right,
+		#e6b7fc 20%,
+		#9c1eca 30%,
+		#cf73f1 70%,
+		#e6b7fc 80%
+	);
+	-webkit-background-clip: text;
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-size: 500% auto;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+	.grad {
+		animation: gradient 12s ease-in-out infinite alternate;
+	}
+	@keyframes gradient {
+		0% {
+			background-position: 0% 50%;
+		}
+		100% {
+			background-position: 100% 50%;
+		}
+	}
+}
